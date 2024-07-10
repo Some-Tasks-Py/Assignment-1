@@ -10,12 +10,12 @@ Steps to Complete the Task
 - Action: Read a string from the user.
 - Objective: Capture the user's input to be analyzed.
   
-2.Preprocess the Input
+2. Preprocess the Input
 - Action: Remove all spaces from the string.
 - Action: Convert all characters in the string to lowercase.
 - Objective: Normalize the string so that the check is case-insensitive and not affected by spaces.
 
-3.Filter Out Non-Alphabetic Characters
+3. Filter Out Non-Alphabetic Characters
 - Action: Create a new string that includes only alphabetic characters from the processed string.
 - Objective: Exclude any characters that are not letters (e.g., punctuation, numbers) to focus only on the relevant content.
 
